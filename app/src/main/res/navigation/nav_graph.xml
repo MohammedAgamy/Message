@@ -12,10 +12,15 @@
         tools:layout="@layout/fragment_log_in" >
         <action
             android:id="@+id/action_logInFragment_to_signUpFragment"
-            app:destination="@id/signUpFragment" />
+            app:destination="@id/signUpFragment"
+            app:enterAnim="@anim/slid_lift"
+            app:popExitAnim="@anim/slid_ritgh"
+            />
         <action
             android:id="@+id/action_logInFragment_to_forgetPasswordFragment2"
-            app:destination="@id/forgetPasswordFragment2" />
+            app:destination="@id/forgetPasswordFragment2"
+            app:enterAnim="@anim/slid_lift"
+            app:popExitAnim="@anim/slid_ritgh"/>
     </fragment>
     <fragment
         android:id="@+id/signUpFragment"

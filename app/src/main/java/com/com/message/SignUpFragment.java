@@ -78,6 +78,7 @@ public class SignUpFragment extends Fragment implements View.OnClickListener {
         switch (view.getId()) {
             case R.id.Signin_text:
                 navController.navigate(R.id.action_signUpFragment_to_logInFragment);
+
                 break;
         }
 

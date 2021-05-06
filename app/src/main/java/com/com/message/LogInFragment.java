@@ -84,6 +84,7 @@ public class LogInFragment extends Fragment implements View.OnClickListener {
                 break;
             case R.id.forgetpass:
                 navController.navigate(R.id.action_logInFragment_to_forgetPasswordFragment2);
+
                 break;
         }
     }
