@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Message</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password ?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="name">Name</string>
+    <string name="signup">SignUp</string>
+    <string name="don_t_have_account">Dont Have Account ?</string>
+    <string name="terms">Terms</string>
+    <string name="conditions">Conditions</string>
+    <string name="create_account">Create Account</string>
+    <string name="you_can_remember_your_password_n_enter_your_name">You can Remember Your Password \n Enter Your Name</string>
+</resources>
